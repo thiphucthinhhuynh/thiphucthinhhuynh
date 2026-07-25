@@ -2,7 +2,7 @@
 
 ### Software Engineering Student @ San Jose State University
 
-Currently building **Mosaic**, a full-stack web application from scratch.
+🌱 Currently building **Mosaic**, a full-stack web application from scratch.
 
 Interested in:
 - Full Stack Development
@@ -25,11 +25,11 @@ Interested in:
 
 - Mosaic *(Currently under development 🚧)*
 - Nooknet
-- Tumblr Clone
+- Tumblr-Project
 
 --- 
 
-## Connect with Me 
+## 📫 Connect with Me 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/thiphucthinhhuynh)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/thiphucthinhhuynh)
 
