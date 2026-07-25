@@ -1,6 +1,40 @@
+# 👋 Hi, I'm Thi Phuc Thinh Huynh
+
+### Software Engineering Student @ San Jose State University
+
+Currently building **Mosaic**, a full-stack web application from scratch.
+
+Interested in:
+- Full Stack Development
+- Frontend Engineering
+- Backend Engineering
+- AI Applications
+
+---
+
+## 💻 Programming Languages
+[![MyLanguages](https://skillicons.dev/icons?i=javascript,java,python,html,css&theme=light&perline=3)](https://skillicons.dev) 
+
+## 🛠 Tech Stack 
+
+[![My Skills](https://skillicons.dev/icons?i=react,redux,nodejs,express,flask,sequelize,postgresql,docker,git,github,postman,figma&theme=light&perline=5)](https://skillicons.dev) 
+
+---
+
+## 📌 Featured Projects
+
+- Mosaic *(Currently under development 🚧)*
+- Nooknet
+- Tumblr Clone
+
+--- 
+
+## Connect with Me 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/thiphucthinhhuynh)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/thiphucthinhhuynh)
 
 
-☕️
+
 <!---
 
 [LeetCode Stats](https://leetcode.com/thiphucthinh/)
