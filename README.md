@@ -1,3 +1,5 @@
+![Thi Phuc Thinh Huynh — Software Engineering](ThiPhucThinhHuynh-profile-banner.png)
+
 # 👋 Hi, I'm Thi Phuc Thinh Huynh
 
 ### Software Engineering Student @ San Jose State University
