@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Thi Phuc Thinh Huynh
 
-### Software Engineering Student @ San Jose State University
+### Software Engineering Student at San José State University
 
 🌱 Currently building **Mosaic**, a full-stack web application from scratch.
 
