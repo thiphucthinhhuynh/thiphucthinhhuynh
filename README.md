@@ -1,12 +1,10 @@
-![Thi Phuc Thinh Huynh — Software Engineering](ThiPhucThinhHuynh-profile-banner.png)
-
 # 👋 Hi, I'm Thi Phuc Thinh Huynh
 
 ### Software Engineering Student at San José State University
 
 🌱 Currently building **Mosaic**, a full-stack web application from scratch.
 
-Interested in:
+💗 Interested in:
 - Full Stack Development
 - Frontend Engineering
 - Backend Engineering
@@ -25,9 +23,9 @@ Interested in:
 
 ## 📌 Featured Projects
 
-- Mosaic *(Currently under development 🚧)*
 - Nooknet
 - Tumblr-Project
+- Mosaic *(Currently under development 🚧)*
 
 --- 
 
