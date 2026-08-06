@@ -2,8 +2,6 @@
 
 ### Software Engineering Student at San José State University
 
-🌱 Currently building **Mosaic**, a full-stack web application from scratch.
-
 💗 Interested in:
 - Full Stack Development
 - Frontend Engineering
@@ -25,7 +23,6 @@
 
 - Nooknet
 - Tumblr-Project
-- Mosaic *(Currently under development 🚧)*
 
 --- 
 
@@ -45,6 +42,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+🌱 Currently building **Mosaic**, a full-stack web application from scratch.
+- Mosaic *(Currently under development 🚧)*
 -->
 
 <!---
