@@ -11,7 +11,7 @@
 ---
 
 ## 💻 Programming Languages
-[![MyLanguages](https://skillicons.dev/icons?i=javascript,java,python,html,css&theme=light&perline=3)](https://skillicons.dev) 
+[![MyLanguages](https://skillicons.dev/icons?i=javascript,typescript,java,python,html,css&theme=light&perline=3)](https://skillicons.dev) 
 
 ## 🛠 Tech Stack 
 
